@@ -1,4 +1,4 @@
-# Lerchconsultants Website
+# Lerch Consultants Website
 
 A basic website created with HTML and CSS.
 
