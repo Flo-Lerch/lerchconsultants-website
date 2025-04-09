@@ -82,3 +82,33 @@ a:hover {
     color: #2980b9;
     text-decoration: underline;
 }
+
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    h3 {
+        font-size: 1.2rem;
+    }
+
+    section {
+        padding: 1rem;
+    }
+
+    ul {
+        padding-left: 1rem;
+    }
+
+    li {
+        margin-bottom: 0.4rem;
+    }
+}
